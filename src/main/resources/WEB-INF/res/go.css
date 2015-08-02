@@ -1,0 +1,163 @@
+
+body {
+	background-color : 111111;
+	color : white;
+	font-family : "Tahoma, Arial, Verdana";
+	font-size : 14px;
+}
+
+a {
+	color : #FFA500;
+}
+
+.team {
+	color : #FFA500;
+	font-weight : bold;
+}
+
+.mini {
+	color : white;
+}
+
+.comment {
+	color : black;
+	font-size : 10px;
+}
+
+.dozor {
+	font-family : "a_StamperRg&Bt, Times New Roman";
+	font-size : 85px;
+	color : White;
+	font-weight : bold;
+	vertical-align : top;
+}
+
+.night{
+	color : #FFA500;
+	font-family : "a_OldTyperNR, Times New Roman";
+	font-size : 15px;
+	font-weight : bold;
+	vertical-align : bottom;
+}
+
+#middle {
+	padding-top : 7px;
+	font-size : 50px;
+}
+
+#clock {
+	background-color : #FFA500;
+	color : Black;
+	font-family : sans-serif;
+	font-weight : bold;
+	font-size : 30px;
+	padding : 5 5 5 5;
+	border : thin solid #8B4513;
+	width : 100px;
+	text-align : center;
+}
+
+.sysmsg {
+	background-color : #FFA500;
+	font-size : 20px;
+	font-weight : bold;
+	color : black;
+	padding : 10px 10px 10px 10px;
+}
+
+.pagetime {
+	padding-top : 15px;
+	color : f0f0f0;
+	font-size : 12px;
+}
+
+.title {
+	font-size : 15px;
+	font-weight : bold;
+	color : #FFA500;
+	text-align: center;
+	padding : 10px 10px 10px 10px;
+}
+
+.zad, .codeform  {
+    text-align: center;
+	background-color : black;
+	font-size : 14px;
+	font-family : sans-serif;
+	color : white;
+	padding : 10px 10px 10px 10px;
+	border : 1px solid white;
+}
+
+.log {
+	font-size : 14px;
+	font-family : sans-serif;
+	color : white;
+}
+
+.msg {
+	color : #ffcc33;
+}
+
+#shapka {
+	background-color : #FF9933;
+	color : black;
+}
+
+#nf {
+	color:#FF3300;
+}
+#ltime {
+	color:#ffff66;
+}
+#ltime1 {
+	color:#66CC66;
+}
+#ltime2 {
+	color:#3399FF;
+}
+
+#tmname {
+	color:#ff9900;
+	text-align : left;
+	font-weight : bold;
+}
+
+#vz {
+	color:#999900;
+	text-align : left;
+	font-weight : bold;
+}
+
+#fulltime {
+	color:#FF3300;
+	font-weight : bold;
+}
+.teamstat td, .teamstat th  {
+	font-family : Arial;
+	font-size : 12px;
+	min-width : 50px;
+}
+
+.teamstat table, .teamstat table td, .teamstat table th {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+
+.teamstat table td, .teamstat table th {
+	padding : 2px 2px 2px 2px;
+}
+
+#nf {
+	color:#FF3300;
+}
+#ltime {
+	color:#ffff66;
+}
+#ltime1 {
+	color:#66CC66;
+}
+#ltime2 {
+	color:#3399FF;
+}
+
